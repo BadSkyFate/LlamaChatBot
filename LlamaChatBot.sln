@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamaChatBot", "LlamaChatBot\LlamaChatBot.csproj", "{59162BD5-908C-4D86-B1B3-2FF0A363057A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59162BD5-908C-4D86-B1B3-2FF0A363057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59162BD5-908C-4D86-B1B3-2FF0A363057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59162BD5-908C-4D86-B1B3-2FF0A363057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59162BD5-908C-4D86-B1B3-2FF0A363057A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6AF8C5-0679-462F-8339-10D324762345}
+	EndGlobalSection
+EndGlobal
